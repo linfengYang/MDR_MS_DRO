@@ -5,7 +5,7 @@
 What about this project/study?
 
       
-      With growing penetration of wind power into the power grid, while achieving low cost sustainable electricity supply, it also 
+     With growing penetration of wind power into the power grid, while achieving low cost sustainable electricity supply, it also 
 introduces technical challenges with the associated intermittency. This paper proposes a fully adaptive Wasserstein-based 
 distributionally robust multi-stage frame-work based on mixed decision rules (MDR) for uncertain unit commitment problem (UUC) to 
 better adapt wind pow-er respecting non-anticipativity both in unit state decision and dispatch process. Comparing with the existing 
