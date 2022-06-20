@@ -4,8 +4,9 @@
 
 What about this project/study?
 
-      With growing penetration of wind power into the power grid, while achieving low cost sustainable electricity supply, 
-it also introduces technical challenges with the associated intermittency. This paper proposes a fully adaptive Wasserstein-based 
+      
+      With growing penetration of wind power into the power grid, while achieving low cost sustainable electricity supply, it also 
+introduces technical challenges with the associated intermittency. This paper proposes a fully adaptive Wasserstein-based 
 distributionally robust multi-stage frame-work based on mixed decision rules (MDR) for uncertain unit commitment problem (UUC) to 
 better adapt wind pow-er respecting non-anticipativity both in unit state decision and dispatch process. Comparing with the existing 
 multi-stage model, the proposed framework introduces an im-proved MDR to handle all decision variables to expand feasible region, thus,
@@ -31,11 +32,31 @@ The description of implement code files
     
     SCUC_nodeY :  Construct network admittance matrix.
     
-    L_hat :  continuous lifting operator.
+    L_hat :  Continuous lifting operator.
     
-    L_tine :  binary lifting operator.
+    L_tine :  Binary lifting operator.
+    
+    Sumt :  Calculate number of periods.
+    
+    U_matrix :  Construct vertices matrix.
+    
+    Zbin :  Construct binary coefficient vector.
+    
+    Zboth :  Construct mixed coefficient vector.
+    
+    Zhat :  Construct continuous coefficient vector.
+    
+    Zhat_nonb :  Construct continuous coefficient vector for typical models.
+    
+    vers :  Construct vertices set.
+    
+    vers_nonb :  Construct vertices set for typical models.
+    
+    data: All IEEE datas in the simulations.
     
     SCUC_X_Y ：IEEE X-bus Y-periods test system.
+    
+    Wind_power : Historal wind data.
 
 
 
