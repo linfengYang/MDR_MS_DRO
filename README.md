@@ -72,13 +72,13 @@ Prerequisite:
 
 Publication:
 -----------
-    If you use our study in academic work then please consider citing our papers.
+    If you find our paper/code is useful to you, please cite it.
 
 
 
 
 About Us 
 -----------
-    Authors：Lingfeng Yang (ylf@gxu.edu.cn),Ying Yang (907803678@qq.com),Zhaoyang Dong
+    Authors：Ying Yang (yingyoung1997@gmail.com), Lingfeng Yang (ylf@gxu.edu.cn),Zhaoyang Dong
     Team：www.scholat.com/team/eidp
     Webpage: http://jians.gxu.edu.cn/default.do
