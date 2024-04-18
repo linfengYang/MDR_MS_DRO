@@ -58,6 +58,12 @@ The description of implement code files
     
     Wind_power : Historal wind data.
 
+expansion:
+-----------
+
+    The current BDR_UCC_DRO is suitable for 6-bus test system.
+    If you want to expand it to a larger test system, you should revise the file path to corresponding system file,
+    and define decision variables for each buses, and align all variables with they decision variables.
 
 
 Prerequisite:
